@@ -1,0 +1,3 @@
+primeiro=input('numero')
+segundo=input('numero')
+print(primeiro+segundo)
